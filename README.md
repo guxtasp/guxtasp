@@ -30,15 +30,16 @@
 
 ### Studying at the moment:
 
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=blue&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Experience:
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=green&labelColor=0D1117)&nbsp;
 
 
