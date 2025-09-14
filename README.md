@@ -34,6 +34,9 @@
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
+
 
 ### Experience:
 
